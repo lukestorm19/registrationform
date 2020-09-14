@@ -1,0 +1,29 @@
+form{
+  padding: 5% 10%;
+}
+
+body{
+  background-color: #4e89ae;
+}
+
+h1
+{
+  font-family: 'Permanent Marker', cursive;
+padding-top: 50px;
+  text-align: center;
+}
+
+.forcont{
+    background-color: #ecf4f3;
+    margin: 10%;
+
+}
+
+.error {
+         color: red;
+       }
+
+.buttoncent{
+  padding-left: 350px;
+padding-top: 40px;
+    }
